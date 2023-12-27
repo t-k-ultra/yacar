@@ -215,7 +215,6 @@
     "symbol": "SENSEI",
     "decimals": "6",
     "type": "tokenfactory",
-    "total_supply": "1000000000",
     "icon": "https://i.ibb.co/XZHQdwC/Sensei-Dog.png"
   },
   {
@@ -1437,6 +1436,14 @@
     "circ_supply_api": "https://rest.cosmos.directory/sei/cosmos/bank/v1beta1/supply?pagination.key=dXNlaQ%3D%3D",
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sei/images/sei.svg",
     "coingecko": "https://www.coingecko.com/en/coins/sei"
+  },
+  {
+    "id": "sei1gkzsruqrrjyg6fsdc8t0jnrm3g963ph9frnu4aechkv8wetzt0vqrtwjct",
+    "name": "SEIMOYED",
+    "symbol": "SEIMOYED",
+    "decimals": "6",
+    "type": "cw20"
+    "circ_supply": "1010000000000000"
   },
   {
     "id": "uusdc",
